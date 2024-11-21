@@ -1,0 +1,77 @@
+[
+    {
+        "firstName": "Mulalo",
+        "lastName": "Mabuda",
+        "favHobby": "Soccer",
+        "criminal": false,
+        "dreamCars": [
+            {
+                "carName": "Audi RS3",
+                "engineCapacity": 2,
+                "model": "Cardboard Box"
+            },
+            {
+                "carName": "BMW X3",
+                "engineCapacity": 1.4,
+                "model": "plastic Box"
+            }
+        ]
+    },
+
+    {
+        "firstName": "Anele",
+        "lastName": "Mbombiya",
+        "favHobby": "sleeping",
+        "criminal": true,
+        "dreamCars": [
+            {
+                "carName": "Toyota",
+                "engineCapacity": 2,
+                "model": "Cardboard Box"
+            },
+            {
+                "carName": "GTI",
+                "engineCapacity": 1.4,
+                "model": "plastic Box"
+            }
+        ]
+    },
+    {
+        "firstName": "Sinoyolo",
+        "lastName": "Ngavu",
+        "favHobby": "music",
+        "criminal": true,
+        "dreamCars": [
+            {
+                "carName": "Golf8",
+                "engineCapacity": 2,
+                "model": "Cardboard Box"
+            },
+            {
+                "carName": "AMG",
+                "engineCapacity": 1.4,
+                "model": "plastic Box"
+            }
+        ]
+    },
+    {
+        "firstName": "Mila",
+        "lastName": "Tshivhase",
+        "favHobby": "Games",
+        "criminal": false,
+        "dreamCars": [
+            {
+                "carName": "Ford-Raptor",
+                "engineCapacity": 3.2,
+                "model": "Cardboard Box"
+            },
+            {
+                "carName": "A45",
+                "engineCapacity": 1.6,
+                "model": "plastic Box"
+            }
+        ]
+    }
+
+
+]
